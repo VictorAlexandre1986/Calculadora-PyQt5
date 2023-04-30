@@ -21,4 +21,4 @@ python Calculadora.py
 
 ## Screenshot
 
-
+<img src="imagem_2023-04-30_133120472.png">
